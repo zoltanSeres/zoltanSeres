@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @zoltanSeres
-- 👀 I’m interested in learning Java primarily but also some front end basics (HTML, CSS, JS, React). Also want to learn DSA and improve my logical thinking. 
-- 🌱 I’m currently learning Java.
+Currently learning backend with a focus on Java and Spring Boot. 
+Familiar with Java core, Spring Boot, PostgreSQL.
 
 
 <!---
